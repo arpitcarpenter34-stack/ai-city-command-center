@@ -1,0 +1,30 @@
+[
+  {
+    "incident_id": "INC-0001",
+    "zone_id": "ZONE-03",
+    "title": "Road Blockage and Collision",
+    "description": "Multi-vehicle incident blocking lanes in a high-priority corridor.",
+    "category": "traffic_collision",
+    "severity": "critical",
+    "status": "investigating",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "source_type": "sensor_feed",
+    "created_at": "2026-10-06T07:10:00Z",
+    "updated_at": "2026-10-06T07:15:00Z"
+  },
+  {
+    "incident_id": "INC-0002",
+    "zone_id": "ZONE-01",
+    "title": "Water Main Rupture",
+    "description": "Utility service disruption in the commercial district.",
+    "category": "utility_failure",
+    "severity": "medium",
+    "status": "detected",
+    "latitude": 28.625,
+    "longitude": 77.215,
+    "source_type": "citizen_report",
+    "created_at": "2026-10-06T07:05:00Z",
+    "updated_at": "2026-10-06T07:05:00Z"
+  }
+]

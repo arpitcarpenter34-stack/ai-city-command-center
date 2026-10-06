@@ -1,0 +1,29 @@
+[
+  {
+    "zone_id": "ZONE-01",
+    "name": "Commercial District",
+    "district": "Central City",
+    "criticality_weight": 0.6,
+    "status": "normal",
+    "center_latitude": 28.625,
+    "center_longitude": 77.215
+  },
+  {
+    "zone_id": "ZONE-03",
+    "name": "Central Transit Corridor",
+    "district": "Transit Core",
+    "criticality_weight": 0.9,
+    "status": "elevated_alert",
+    "center_latitude": 28.6139,
+    "center_longitude": 77.209
+  },
+  {
+    "zone_id": "ZONE-05",
+    "name": "Stadium Plaza",
+    "district": "North District",
+    "criticality_weight": 0.8,
+    "status": "normal",
+    "center_latitude": 28.628,
+    "center_longitude": 77.22
+  }
+]
